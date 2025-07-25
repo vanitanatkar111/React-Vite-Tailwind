@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": "2010",
+"image": "https://m.media-amazon.com/images/I/51NbVEuw1HL._AC_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "year": "2014",
+  "image": "https://ia600503.us.archive.org/8/items/interstellar-poster-1/Interstellar%20Poster%201.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": "2008",
+"image": "https://c4.wallpaperflare.com/wallpaper/1008/519/714/batman-dc-comics-video-games-the-dark-knight-wallpaper-preview.jpg"
+  },
+   {
+    "id": 4,
+    "title": "DANGAL",
+    "year": "2016",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMCj20Dhxm40PDsgiS1lMZaNj8lepMfMv9zn3LsbwLWu2ovzUk"
+  },
+  {
+    "id": 5,
+    "title": "PUSHPA",
+    "year": "2022",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTK_Cq35EB_KZmwZ-8M--dRvv-e6WPhQlaNFnoMXKXivM6AihMq"
+  },
+  {
+    "id": 3,
+    "title": "BAHUBALI",
+    "year": "2020",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnMA16Y55ki6WxoLTdTmxNnKwYCZiNwi0DvCakttCRBQgZyJpJ"
+  }
+
+
+]
